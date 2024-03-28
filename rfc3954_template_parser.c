@@ -6,7 +6,7 @@
 #include <stdlib.h>
 
 /**
- * using udp protocl to fetch these data.
+ * using udp protocol to fetch these data.
  * when you receive these data, you need to use unsigned char[], not char[].
 */
 const unsigned char* template = "0009000196"
